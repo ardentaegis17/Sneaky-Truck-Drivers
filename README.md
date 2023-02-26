@@ -1,5 +1,7 @@
 # NinjaSlot
 
+SLides can be found at https://docs.google.com/presentation/d/1tnq30sOMeygYuGXjU1BezyK1ORCjW0F_mQ7M5VUUp-w/edit#slide=id.g2116356f310_0_258
+
 ### Our idea
 To implement a scheduling functionality into NinjaChat on Telegram. What is the benefit of this, you may ask?
 
